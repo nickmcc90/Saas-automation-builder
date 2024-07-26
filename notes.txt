@@ -1,0 +1,12 @@
+First off, get screen studio, to display my web apps in a formative way.
+
+I’ll get this after the video to display my own project based off of this project.
+
+1. Mkdir webprodiges-auto-app
+2. Bring it into VS Code 
+3. First, we are going to integrate shadcn UI.
+    1. Go to shadcn.com
+    2. Click ‘get started’
+    3. Go to the hamburger modal and click installation
+    4. And choose to integrate it with next.js
+    5. Set the commands to be with npm (could be bun if you want)
