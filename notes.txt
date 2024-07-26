@@ -21,3 +21,10 @@ Bun installs things way faster.
     1. We are going to select Default, slate, and yes to the questions.
 
 // timestamp: 10:35
+6. Checklist: At this point, we should have a tailwind.config.ts folder.
+In global.css, our styles that we imported should be showing up.
+
+7. The next thing we want to do is theme our application. Apparently,
+we can just go into global.css and copy paste a theme from anywhere,
+specifically shadcn.com. We just pasted a styling theme from youtube
+guy's repository.
