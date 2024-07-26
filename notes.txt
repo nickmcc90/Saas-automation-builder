@@ -2,6 +2,8 @@ First off, get screen studio, to display my web apps in a formative way.
 
 I’ll get this after the video to display my own project based off of this project.
 
+MAKE SURE TO MAKE A NOTES.TXT AFTER STEP 4.
+
 1. Mkdir webprodiges-auto-app
 2. Bring it into VS Code 
 3. First, we are going to integrate shadcn UI.
@@ -10,3 +12,12 @@ I’ll get this after the video to display my own project based off of this proj
     3. Go to the hamburger modal and click installation
     4. And choose to integrate it with next.js
     5. Set the commands to be with npm (could be bun if you want)
+4. Copy the first command into the vs code terminal with a sudo in front.
+    1. Remove the my-app and just put a period sign.
+**
+Bun installs things way faster.
+**
+5. Copy the second command into the line.
+    1. We are going to select Default, slate, and yes to the questions.
+
+// timestamp: 10:35
